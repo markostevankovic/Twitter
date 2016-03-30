@@ -1,4 +1,4 @@
-package com.twitter;
+package com.twitter.poruke;
 
 import static org.junit.Assert.*;
 
@@ -7,8 +7,6 @@ import org.junit.AfterClass;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
-
-import com.twitter.poruke.TwitterPoruka;
 
 public class TwitterPorukaTest 
 {
