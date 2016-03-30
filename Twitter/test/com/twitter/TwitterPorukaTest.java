@@ -1,7 +1,4 @@
-/**
- * 
- */
-package com.twitter.poruke;
+package com.twitter;
 
 import static org.junit.Assert.*;
 
@@ -11,10 +8,8 @@ import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-/**
- * @author Veiki Arhitekt Univerzuma prof. dr Marko Stevankovic
- *
- */
+import com.twitter.poruke.TwitterPoruka;
+
 public class TwitterPorukaTest 
 {
 	TwitterPoruka status;
