@@ -81,6 +81,6 @@ public class TwitterPoruka
 	 */
 	public String toString()
 	{
-		return "User: "+ this.getKorisnik() + ", message :" + this.getPoruka();
+		return "User: " + this.getKorisnik() + ", message: " + this.getPoruka();
 	}
 }
